@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://GITHUB-Alexand-p.github.io/rsschool-cv/
+## https://github.com/Alexand-p/rsschool-cv/tree/rsschool-cv-html
