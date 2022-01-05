@@ -23,3 +23,19 @@
  Мой выбор пал на профессию Frontend developer так как эта профессия позволяет намного быстрее окунуться в работу.
 
  Я верю что у меня все получиться и я стану хорошим разработчиком.
+
+## Навыки и знания :
+
+ - HTML5,CSS3
+ - JavaScript Basics,TypeScript Basics , Angular
+ - Sass,Scss,Less
+ - Bootstrap 4,Gulp
+ - npm
+ - Sublime,VScode, WebStorm
+ - Figma, Adode XD
+
+
+## Примеры работ :
+ 
+ 1. [test-ibby](https://alexand-p.github.io/test-ibby/ "test-ibby")
+ 2. [grid-tamplate](https://alexand-p.github.io/grid-template/ "grid-tamplate")
