@@ -39,3 +39,11 @@
  
  1. [test-ibby](https://alexand-p.github.io/test-ibby/ "test-ibby")
  2. [grid-tamplate](https://alexand-p.github.io/grid-template/ "grid-tamplate")
+
+## Обучение , курсы :
+ 
+ - SkillUp Basic Web and SQL for SoftWare Testing (completed)
+ - SoloLearn HTML course (completed)
+ - Stepik.org Web Development for Beginners: HTML and CSS (completed) {path} - https://stepik.org/cert/834845
+ - SkillUp WEB and JavaScript for Front-end Development (completed) 
+ - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress) 
