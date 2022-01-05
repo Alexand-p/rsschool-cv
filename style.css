@@ -38,7 +38,10 @@ td,th {
 	width: 1rem;
 	height: 200px ;
 }
-
+a { 
+  text-decoration: none; 
+  font-family: Roboto-slab;
+ } 
 
 
 
