@@ -1,7 +1,7 @@
 
 .header {
-  padding: 50px 20px;
- background-color: red;
+ padding: 50px 20px;
+ background-color: rgb(115, 13, 115);
 }
 
 .header-menu__container{
@@ -24,12 +24,27 @@
 }
 .header-navbar__link {
   padding: 10px 20px;
-  font-size: 20px;
-  transition: color 0.5s;
-  
+  font-size: 40px;
+  color:gold;  
+  box-shadow: 1px 1px 5px 1px  rgb(87, 40, 100);
+  border-radius: 50px;
+  font-family: 'Luxurious Roman', cursive;
 }
 
 .header-content {
   position: relative;
   z-index: 1;
+}
+.header-content__title,h1 {
+  font-size: 80px;
+  color: goldenrod;
+  text-align: center; 
+  font-family: 'Luxurious Roman', cursive;
+}
+.header-navbar__link:hover{
+  color: goldenrod;
+  background-color: rgba(200, 126, 200,0.2);
+  transition: color,border,background-color, 0.5s;
+  transition: border, 0.5s;
+
 }

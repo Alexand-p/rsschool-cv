@@ -1,6 +1,7 @@
 .footer{
   min-height: 350px;
   background-color: gold;
+  box-shadow: inset 0px 3px 19px 0px black;
 }
 .footer-container{
   display: flex;

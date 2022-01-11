@@ -1,5 +1,8 @@
 *{
 	box-sizing: border-box;
+	font-size: 30px;
+	font-weight: 200	;
+	font-family: 'Quicksand', sans-serif;
 }
 a{
 	text-decoration: none;
@@ -33,12 +36,32 @@ table {
 	padding: 10px;
 	text-align: center;
 	}
+	main{
+		box-shadow: inset 0px 3px 19px 0px black;
+	}
+	.titel{
+		text-align: center;
+		font-size: 35px;
+		color: goldenrod;
+		font-family: 'Luxurious Roman', cursive;
+	}
 	
-/* main,footer{
-  padding: 40px;
-} */
 .contact,.about,.skills,.examples,.training{
-	padding: 10px ;
-	margin: 0 ;
-	background-color: rosybrown;
+	padding: 10px 10px;
+	background-color:  rgba(115, 13, 115,0.8);
+}
+.skills-container__item{
+	padding-bottom: 5px;
+}
+.examples-container__gallery{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding: 0 60px;
+}
+.examples-container__gallery--item{
+	width: 650px;
+	height: 500px;
+	border-radius:10px;
+	
 }
