@@ -34,6 +34,11 @@ table {
 	text-align: center;
 	}
 	
-main,footer{
+/* main,footer{
   padding: 40px;
+} */
+.contact,.about,.skills,.examples,.training{
+	padding: 10px ;
+	margin: 0 ;
+	background-color: rosybrown;
 }
